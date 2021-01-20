@@ -1,1 +1,1 @@
-[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaelt0520&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaelt0520&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
