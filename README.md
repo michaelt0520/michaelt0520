@@ -19,6 +19,8 @@
 
 <br />
 
+![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaelt0520&include_all_commits=true&count_private=true&show_icons=true&hide=contribs)
+
 [linkedin]: https://www.linkedin.com/in/tuan-michael-tran-9875a5171/
 [github]: https://github.com/michaelt0520?tab=follow
 [email]: mailto:mictran205@gmail.com
