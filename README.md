@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=michaelt0520&include_all_commits=true&count_private=true&show_icons=true&hide=contribs">
+
 ### Hi I'm Hai Tuan (Michael) Tran! 👋
 - 🔭 I’m currently working on Backend Technologies (RoR)
 - 📫 How to reach me: mictran205@gmail.com
@@ -18,8 +20,6 @@
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br />
-
-![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaelt0520&include_all_commits=true&count_private=true&show_icons=true&hide=contribs)
 
 [linkedin]: https://www.linkedin.com/in/tuan-michael-tran-9875a5171/
 [github]: https://github.com/michaelt0520?tab=follow
